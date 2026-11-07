@@ -1,0 +1,6 @@
+{
+  "name": "Tahir Autos",
+  "description": "Premium automotive repair, precision maintenance, and custom performance engineering with an interactive 3D header.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
